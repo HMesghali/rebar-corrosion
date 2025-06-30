@@ -6,8 +6,8 @@ Rebar corrosion in reinforced concrete poses a significant threat to infrastruct
 
 ## Contents
 - **Jupyter Notebook**: All source code used to generate the results is available in Jupyter Notebook file.
-- **Dataset**: Dataset on carbonation and chloride-induced steel corrosion in cementitious mortars
-- **Dataset Paper**: https://doi.org/10.1016/j.dib.2024.110595
+- **Dataset**: carbonation and chloride-induced steel corrosion in cementitious mortars
+- **Dataset's Paper**: https://doi.org/10.1016/j.dib.2024.110595
 - **Paper Link**: Will be available after acceptance
 - **Dependencies**: These dependencies are listed in the `requirements.txt` file. To install them, run: `pip install -r requirements.txt`
 
