@@ -16,5 +16,3 @@ Rebar corrosion in reinforced concrete poses a critical threat to structural int
 - Behnam Akhlaghi
 - Mir Amir Mohammad Reshadi
 - Javad Mohammadpour
-- Fatemeh Salehi
-- Rouzbeh Abbassi
